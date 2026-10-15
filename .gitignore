@@ -1,0 +1,11 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local operating-system files and temporary build artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.zip

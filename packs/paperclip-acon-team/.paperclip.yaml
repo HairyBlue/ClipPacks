@@ -1,0 +1,294 @@
+{
+  "agents": {
+    "backend-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Backend Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "code-reviewer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Code Reviewer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "database-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Database Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "devops-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "DevOps Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "frontend-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Frontend Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "gitops": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "GitOps",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "oracle": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Oracle",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "orchestrator": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Orchestrator",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "performance-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Performance Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "qa-engineer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "QA Engineer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "researcher": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Researcher",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "reviewer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Reviewer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "scout": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Scout",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "security-reviewer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Security Reviewer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "ship": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Ship",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "ui-ux-designer": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "UI/UX Designer",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    },
+    "worker": {
+      "adapter": {
+        "config": {
+          "model": "openai-codex/gpt-6-luna",
+          "thinking": "high"
+        },
+        "type": "pi_local"
+      },
+      "permissionGrants": [],
+      "permissions": {},
+      "role": "Worker",
+      "runtime": {
+        "heartbeat": {
+          "enabled": false
+        }
+      }
+    }
+  },
+  "schemaVersion": 7
+}
